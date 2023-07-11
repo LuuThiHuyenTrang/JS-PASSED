@@ -108,5 +108,3 @@ const UpdatePro = (id) => {
     });
   });
 };
-
-rdtfu;
